@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognition
+### Handwritten-Digit-Recognition
 
 📌 Project Overview
 
@@ -71,26 +71,25 @@ Regularization significantly improves performance on test data, reducing overfit
 🛠 How to Run the Project
 Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/handwritten-digit-recognition.git
+```bash
+git clone https://github.com/Niloufarbeikahmadi/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
+```
 Install required dependencies:
-bash
-Copy
-Edit
+
+```bash
 pip install -r requirements.txt
+```
 Run Jupyter Notebooks to explore the models:
-bash
-Copy
-Edit
+```bash
 jupyter notebook
+```
 Open and execute:
+```bash
 Handwritten Digit Recognition, Binary using NN.ipynb
 Handwritten Digit Recognition, Multiclass.ipynb
 Preventing Overfitting with Regularization.ipynb
-
+```
 📌 Key Takeaways
 
 Deep Learning fundamentals applied to real-world classification tasks.
